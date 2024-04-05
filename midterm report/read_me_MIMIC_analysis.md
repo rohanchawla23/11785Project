@@ -1,5 +1,5 @@
 # MIMIC-IV analysis script info
-This folder contains the 2 python scripts I used and the specific csvs from MIMIC-IV that gave me comparison data for our midterm report.
+This folder contains the 2 python scripts I used and the specific csvs from MIMIC-IV that gave me comparison data for our midterm report. The most important data was other diagnoses for cancer-positive patients.
 # CSV files:
 Files I created from scripts:
 
