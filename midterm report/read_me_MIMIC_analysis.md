@@ -3,9 +3,8 @@ This folder contains the 2 python scripts I used and the specific csvs from MIMI
 # CSV files:
 Files I created from scripts:
 
-*'cancer patient records.csv': The better cancer-positive patient data csv. Upon realizing an earlier mistake('cancer patient dates.csv'), I rewrote the csv.
+*'cancer patient records.csv': The better cancer-positive patient data csv. Note that some patients have multiple diagnoses of pancreatic cancer.
 
-*'cancer patient dates.csv': I created this initial file to get patient ids who were pancreatic cancer positive from the mimic_data.json file. I didn't know pandas' .to_csv method produces some incomprehensible (for me) readouts. Nor did I consider multiple cancer diagnoses when making this csv, hence the repeat ids.
 
 
 
